@@ -18,4 +18,5 @@ Clone the repository to your local machine. Make sure [Python](https://www.pytho
 ```
 pip install -r requirements.txt
 ```
-Run the main.py file to run the provided tests. Edit the `alldata.txt` file 
+Run the main.py file to run the provided tests. Edit the `alldata.txt` file and add your own film reviews (in the format specified above)
+to see how my accurately my classifier with categorize them.
